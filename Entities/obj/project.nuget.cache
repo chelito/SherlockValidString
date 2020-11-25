@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1x9xuI4hgJ9ZSBU4rfyRQ42JeK/R5ciKLWC+83ntPiUrh0IhsuGx22AUeA1P4xR8gWueNXZCz8f2rb6Ad0c1Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marce\\Documents\\Nueva carpeta\\SherlockValidString\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
